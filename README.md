@@ -19,6 +19,7 @@ Focused on **clean code, scalable apps, TDD**, and exploring **Cybersecurity**�
 ---
 
  💻 My Tech Playground
+ 
 **Frontend:** <span style="color:#00d4ff;">React</span> | <span style="color:#6eafff;">Angular</span> | <span style="color:#00d4ff;">Flutter</span> | JavaScript | TypeScript  
 **Backend:** Java | Spring Boot | Symfony | Laravel | Node.js  
 **Other Fun Stuff:** Docker | Cloud | Git | CI/CD | APIs  
@@ -26,6 +27,7 @@ Focused on **clean code, scalable apps, TDD**, and exploring **Cybersecurity**�
 ---
 
 🌟 My Motto
+
 <span style="color:#00d4ff;">“Always learning</span>, <span style="color:#6eafff;">always improving</span>, <span style="color:#00d4ff;">always coding with joy!” 💙</span>
 
 </div>
