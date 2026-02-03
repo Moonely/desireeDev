@@ -1,10 +1,9 @@
 <div align="center">
 
-# 👋 Hey there, I'm Syntiche 💖
+# 👋 Hey there, I'm Syntiche 
 
-**<span style="color:#ff69b4;">✨ Passionate learner | Code with joy | Always creating ✨</span>**
+**<span style="color:#ff69b4;">✨✨</span>**
 
-💡 “I code because I love building, exploring, and improving—one line at a time.”
 
 ---
 
