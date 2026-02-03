@@ -4,10 +4,7 @@
 <div align="center">
 <!-- Main Title with blue/cyan gradient -->
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <h1 style="display:inline-block; background: linear-gradient(90deg, #00d4ff, #6eafff); -webkit-background-clip: text; color: transparent;">
-    Hey
-  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=👋+Hey!" alt="Typing SVG" />
 </div>
 ### 🎓 About Me
 <span style="color:#00d4ff;">Informatics Student</span> | <span style="color:#6eafff;">💻 Web & Mobile Developer</span> | <span style="color:#00d4ff;">🐳 Docker & Cloud Explorer</span>  
