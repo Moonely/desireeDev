@@ -14,9 +14,6 @@
 </h1>
 
 ---
-
-![Tech Hearts GIF by Persona](https://github.com/user-attachments/assets/228d7c69-617b-4d6e-b8a7-0cebcd9adcea)
-
 ---
 
 ### 🎓 About Me
