@@ -3,25 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Syntiche&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%✨&descAlignY=51&descAlign=50&descSize=20" width="100%"/>
 <div align="center">
 <!-- Main Title with blue/cyan gradient -->
-<style>
-  @keyframes wave {
-    0%, 100% { transform: rotate(0deg); }
-    25% { transform: rotate(20deg); }
-    75% { transform: rotate(-10deg); }
-  }
-
-  h1 {
-    background: linear-gradient(90deg, #00d4ff, #6eafff); 
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    display: inline-block;
-    animation: wave 1s infinite;
-  }
-</style>
-<h1>
-  👋 Hey
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <h1 style="display:inline-block; background: linear-gradient(90deg, #00d4ff, #6eafff); -webkit-background-clip: text; color: transparent;">
+    Hey
+  </h1>
+</div>
 ### 🎓 About Me
 <span style="color:#00d4ff;">Informatics Student</span> | <span style="color:#6eafff;">💻 Web & Mobile Developer</span> | <span style="color:#00d4ff;">🐳 Docker & Cloud Explorer</span>  
 
