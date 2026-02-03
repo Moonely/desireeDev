@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Beautiful Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Syntiche&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%✨&descAlignY=51&descAlign=50&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Syntiche&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%✨&descAlignY=51&descAlign=50&descSize=20" width="100%"/>
 <div align="center">
 <!-- Main Title with blue/cyan gradient -->
 <h1 style="background: linear-gradient(90deg, #00d4ff, #6eafff); -webkit-background-clip: text; color: transparent;">
