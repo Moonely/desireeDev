@@ -2,6 +2,21 @@
 <!-- Beautiful Gradient Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=✨Syntiche✨&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%&descAlignY=51&descAlign=50&descSize=20" width="100%"/>
 <div align="center">
+  <div align="center">
+  <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#6eafff;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="800" height="200" fill="url(#grad1)" rx="15"/>
+    <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="48" 
+          fill="white" text-anchor="middle" dominant-baseline="middle">
+      ✨ Syntiche ✨
+    </text>
+  </svg>
+</div>
 <!-- Main Title with blue/cyan gradient -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
